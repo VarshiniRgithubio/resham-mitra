@@ -1,0 +1,2 @@
+{"id": "EXAMPLE-001", "question_kn": "<EXAMPLE - replace with a real farmer question in Kannada>", "topic": "disease_pest", "label": "answer", "gold_answer_kn": "<EXAMPLE - officer-verified answer>", "source_doc": "<EXAMPLE.pdf>", "source_page": 1, "verified_by": "<officer role>", "split": "dev"}
+{"id": "EXAMPLE-002", "question_kn": "<EXAMPLE - question the documents cannot answer>", "topic": "other", "label": "abstain", "verified_by": "<officer role>", "split": "test"}
